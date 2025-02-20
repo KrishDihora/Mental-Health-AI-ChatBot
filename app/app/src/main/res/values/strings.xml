@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mental Health ChatBot</string>
+    <string name="urlauth">https://kunal-singh.onrender.com/api/v1/auth/</string>
+    <string name="urlchat">https://kunal-singh.onrender.com/api/v1/chat/</string>
+    <string name="urlpayment">https://api.pjci.in/public/payment/</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

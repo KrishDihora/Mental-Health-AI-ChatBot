@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/doubt_selector">
+
+    </item>
+
+    <item android:id="@+id/consult_doctor"
+        android:title="Consult Doctor"
+        android:icon="@drawable/doctor_selector">
+
+    </item>
+
+    <item android:id="@+id/emergency"
+        android:title="Emergency"
+        android:icon="@drawable/emergency_selector">
+
+    </item>
+
+</menu>

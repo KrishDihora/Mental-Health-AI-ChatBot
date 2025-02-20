@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="false"
+        android:drawable="@drawable/not_eye">
+        <shape>
+            <size android:height="@dimen/_20sdp"
+                android:width="@dimen/_20sdp"></size>
+        </shape>
+    </item>
+
+    <item android:state_checked="true"
+        android:drawable="@drawable/eye">
+        <shape>
+            <size android:height="@dimen/_20sdp"
+                android:width="@dimen/_20sdp"></size>
+        </shape>
+    </item>
+
+
+</selector>-->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/not_eye"
+            android:gravity="center"
+            android:width="24dp"
+        android:height="24dp" /> <!-- Set desired height -->
+    </item>
+</layer-list>

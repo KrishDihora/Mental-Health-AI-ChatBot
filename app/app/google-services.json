@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378754393152",
+    "project_id": "mental-health-chatbot-6d0dc",
+    "storage_bucket": "mental-health-chatbot-6d0dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378754393152:android:eb2e17f5d727721b9aaba5",
+        "android_client_info": {
+          "package_name": "com.codecrush.mentalhealthchatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40xgHNmzg2EhJo97XMYT1w9rUQwa7MHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
